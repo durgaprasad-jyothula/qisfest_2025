@@ -89,7 +89,7 @@
                     <!-- <div class="section-title__tagline-box">
                         <p class="section-title__tagline"><span>//</span> Our team <span>//</span> </p>
                     </div> -->
-                    <h2 class="section-title__title mt-3">Feature for your <span>Event</span></h2>
+                    <!-- <h2 class="section-title__title mt-3">Feature for your <span>Event</span></h2> -->
                 </div>
                 <div class="section-title text-left">
                         <div class="section-title__tagline-box">
@@ -107,7 +107,7 @@
                             <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                             <div class="team-one__img-box">
                                     <div class="team-one__img">
-                                        <img src="assets/images/team/team-1-1.jpg" alt="">
+                                        <img src="assets/images/events/AI images of table tennis.png" alt="">
                                     </div>
                                     <div class="team-one__single-shape-1">
                                         <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -130,7 +130,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-2.jpg" alt="">
+                                    <img src="assets/images/events/AI images of chess game.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -153,7 +153,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-3.jpg" alt="">
+                                    <img src="assets/images/events/AI images of carroms game.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -181,7 +181,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-1.jpg" alt="">
+                                    <img src="assets/images/events/volleyball game.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -204,7 +204,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-2.jpg" alt="">
+                                    <img src="assets/images/events/kabaddi game.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -227,7 +227,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-3.jpg" alt="">
+                                    <img src="assets/images/events/basketball game.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -250,7 +250,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-3.jpg" alt="">
+                                    <img src="assets/images/events/kho-kho game.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -272,7 +272,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-3.jpg" alt="">
+                                    <img src="assets/images/events/throw ball game.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -299,7 +299,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-1.jpg" alt="">
+                                    <img src="assets/images/events/shot put game.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -322,7 +322,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-2.jpg" alt="">
+                                    <img src="assets/images/events/long jump game.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -345,7 +345,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-3.jpg" alt="">
+                                    <img src="assets/images/events/high jump game.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -396,7 +396,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/volleyball.jpg" alt="">
+                                    <img src="assets/images/events/singing.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -419,7 +419,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-2.jpg" alt="">
+                                    <img src="assets/images/events/dancing.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -442,7 +442,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-3.jpg" alt="">
+                                    <img src="assets/images/events/fashion show.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -467,7 +467,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-1.jpg" alt="">
+                                    <img src="assets/images/events/musci band.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -490,7 +490,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-2.jpg" alt="">
+                                    <img src="assets/images/events/film making.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -513,7 +513,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-3.jpg" alt="">
+                                    <img src="assets/images/events/photography.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -538,7 +538,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-1.jpg" alt="">
+                                    <img src="assets/images/events/skit performance.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -561,7 +561,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-2.jpg" alt="">
+                                    <img src="assets/images/events/mime show.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -584,7 +584,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-3.jpg" alt="">
+                                    <img src="assets/images/events/talent show.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -609,7 +609,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-1.jpg" alt="">
+                                    <img src="assets/images/events/painting contest.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -632,7 +632,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-2.jpg" alt="">
+                                    <img src="assets/images/events/drawing contest.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -683,7 +683,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/volleyball.jpg" alt="">
+                                    <img src="assets/images/events/group discussion.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -706,7 +706,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-2.jpg" alt="">
+                                    <img src="assets/images/events/biz quiz.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -729,7 +729,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-3.jpg" alt="">
+                                    <img src="assets/images/events/paper presentation.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -754,7 +754,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-1.jpg" alt="">
+                                    <img src="assets/images/events/poster presentation.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -777,7 +777,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-2.jpg" alt="">
+                                    <img src="assets/images/events/project expo.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
@@ -800,7 +800,7 @@
                         <a href="https://qiscet.edu.in/qiscet/QISFEST2025/">    
                         <div class="team-one__img-box">
                                 <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-3.jpg" alt="">
+                                    <img src="assets/images/events/tech fun events.png" alt="">
                                 </div>
                                 <div class="team-one__single-shape-1">
                                     <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
