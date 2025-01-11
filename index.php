@@ -81,98 +81,33 @@
                 <div class="swiper-wrapper">
 
                     <div class="swiper-slide">
-                        <div class="main-slider__bg"
-                            style="background-image: url(assets/images/backgrounds/slider-1-1.jpg);"></div>
+                        <!-- <div class="main-slider__bg"
+                            style="background-image: url(assets/images/backgrounds/bg1.png);">
+                        </div> -->
                         <div class="main-slider__img">
-                            <img src="assets/images/resources/main-slider-img-1-1.jpg" alt="">
+                            <img src="assets/images/bg22.png" alt="">
                         </div>
-                        <div class="main-slider__shape-1"></div>
+                        <!-- <div class="main-slider__shape-1"></div>
                         <div class="main-slider__shape-2">
                             <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
-                        </div>
+                        </div> -->
                         <div class="main-slider__shape-3"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-xl-12">
                                     <div class="main-slider__content">
-                                        <p class="main-slider__sub-title">musicfest</p>
-                                        <h2 class="main-slider__title">Harmonia <br> 2024</h2>
-                                        <a href="#" class="main-slider__curved-circle">
-                                            <div class="curved-circle">
-                                                Discover more our work
-                                            </div><!-- /.curved-circle -->
+                                        <!-- <p class="main-slider__sub-title">musicfest</p> -->
+                                        <h2 class="main-slider__title"><span style="color:#007236">QIS </span> <span style="color: #ee1c24;">Fest</span> <br> <span style="color: #013178;">2025</span></h2>
+                                        <a href="events.php" class="main-slider__curved-circle">
+                                            <div class="curved-circle" style="color: yellow;">
+                                                Revive &nbsp;&nbsp;Reuse&nbsp;&nbsp;Recycle&nbsp;&nbsp;
+                                            </div>
                                             <div class="main-slider__arrow-icon-box">
                                                 <div class="main-slider__arrow-icon">
                                                     <span class="icon-down-right"></span>
                                                 </div>
                                             </div>
-                                        </a><!-- /.curved-circle -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                        <div class="main-slider__bg"
-                            style="background-image: url(assets/images/backgrounds/slider-1-2.jpg);"></div>
-                        <div class="main-slider__img">
-                            <img src="assets/images/resources/main-slider-img-1-2.jpg" alt="">
-                        </div>
-                        <div class="main-slider__shape-1"></div>
-                        <div class="main-slider__shape-2">
-                            <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
-                        </div>
-                        <div class="main-slider__shape-3"></div>
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-xl-12">
-                                    <div class="main-slider__content">
-                                        <p class="main-slider__sub-title">musicfest</p>
-                                        <h2 class="main-slider__title">Harmonia <br> 2024</h2>
-                                        <a href="#" class="main-slider__curved-circle">
-                                            <div class="curved-circle">
-                                                Discover more our work
-                                            </div><!-- /.curved-circle -->
-                                            <div class="main-slider__arrow-icon-box">
-                                                <div class="main-slider__arrow-icon">
-                                                    <span class="icon-down-right"></span>
-                                                </div>
-                                            </div>
-                                        </a><!-- /.curved-circle -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                        <div class="main-slider__bg"
-                            style="background-image: url(assets/images/backgrounds/slider-1-3.jpg);"></div>
-                        <div class="main-slider__img">
-                            <img src="assets/images/resources/main-slider-img-1-3.jpg" alt="">
-                        </div>
-                        <div class="main-slider__shape-1"></div>
-                        <div class="main-slider__shape-2">
-                            <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
-                        </div>
-                        <div class="main-slider__shape-3"></div>
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-xl-12">
-                                    <div class="main-slider__content">
-                                        <p class="main-slider__sub-title">musicfest</p>
-                                        <h2 class="main-slider__title">Harmonia <br> 2024</h2>
-                                        <a href="#" class="main-slider__curved-circle">
-                                            <div class="curved-circle">
-                                                Discover more our work
-                                            </div><!-- /.curved-circle -->
-                                            <div class="main-slider__arrow-icon-box">
-                                                <div class="main-slider__arrow-icon">
-                                                    <span class="icon-down-right"></span>
-                                                </div>
-                                            </div>
-                                        </a><!-- /.curved-circle -->
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -192,163 +127,29 @@
 
         <!--Feature One Start-->
         <section class="feature-one">
-            <div class="feature-one__shape-1 zoominout">
-                <img src="assets/images/shapes/feature-one-shape-1.png" alt="">
-            </div>
-            <div class="feature-one__shape-2">
-                <img src="assets/images/shapes/feature-one-shape-2.png" alt="">
-            </div>
-            <div class="container">
-                <div class="section-title text-center">
-                    <div class="section-title__tagline-box">
-                        <span class="section-title__tagline"><span>//</span> Our Features <span>//</span></span>
-                    </div>
-                    <h2 class="section-title__title">Feature for your <span>Event</span></h2>
-                </div>
-                <div class="row">
-                    <!--Feature One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
-                        <div class="feature-one__single">
-                            <div class="feature-one__single-shape-1"
-                                style="background-image: url(assets/images/shapes/feature-one-single-shape-1.png);">
-                            </div>
-                            <div class="feature-one__img-box">
-                                <div class="feature-one__img">
-                                    <img src="assets/images/resources/feature-1-1.jpg" alt="">
-                                </div>
-                                <div class="feature-one__count"></div>
-                                <div class="feature-one__content">
-                                    <div class="feature-one__icon">
-                                        <span class="icon-icon-15151715"></span>
-                                    </div>
-                                    <h3 class="feature-one__title"><a href="speaker-single.html">Confirm Speakers</a>
-                                    </h3>
-                                    <p class="feature-one__text">This high-level structure software</p>
-                                </div>
-                                <div class="feature-one__btn-box">
-                                    <a href="speaker-single.html"><span class="fas fa-arrow-circle-right"></span>More
-                                        Details</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Feature One Single End-->
-                    <!--Feature One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                        <div class="feature-one__single">
-                            <div class="feature-one__single-shape-1"
-                                style="background-image: url(assets/images/shapes/feature-one-single-shape-1.png);">
-                            </div>
-                            <div class="feature-one__img-box">
-                                <div class="feature-one__img">
-                                    <img src="assets/images/resources/feature-1-2.jpg" alt="">
-                                </div>
-                                <div class="feature-one__count"></div>
-                                <div class="feature-one__content">
-                                    <div class="feature-one__icon">
-                                        <span class="icon-brain"></span>
-                                    </div>
-                                    <h3 class="feature-one__title"><a href="about.html">Best Digital Ideas</a></h3>
-                                    <p class="feature-one__text">This high-level structure software</p>
-                                </div>
-                                <div class="feature-one__btn-box">
-                                    <a href="about.html"><span class="fas fa-arrow-circle-right"></span>More Details</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Feature One Single End-->
-                    <!--Feature One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInRight" data-wow-delay="300ms">
-                        <div class="feature-one__single">
-                            <div class="feature-one__single-shape-1"
-                                style="background-image: url(assets/images/shapes/feature-one-single-shape-1.png);">
-                            </div>
-                            <div class="feature-one__img-box">
-                                <div class="feature-one__img">
-                                    <img src="assets/images/resources/feature-1-3.jpg" alt="">
-                                </div>
-                                <div class="feature-one__count"></div>
-                                <div class="feature-one__content">
-                                    <div class="feature-one__icon">
-                                        <span class="icon-connection"></span>
-                                    </div>
-                                    <h3 class="feature-one__title"><a href="contact.html">Networking People</a></h3>
-                                    <p class="feature-one__text">This high-level structure software</p>
-                                </div>
-                                <div class="feature-one__btn-box">
-                                    <a href="contact.html"><span class="fas fa-arrow-circle-right"></span>More
-                                        Details</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Feature One Single End-->
-                </div>
-            </div>
+            
         </section>
         <!--Feature One End-->
 
         <!--About One Start-->
         <section class="about-one">
-            <div class="about-one__shape-2 zoominout">
-                <img src="assets/images/shapes/about-one-shape-2.png" alt="">
-            </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-6 wow fadeInLeft" data-wow-delay="300ms">
+                    <div class="col-xl-6 offset-3 wow fadeInLeft" data-wow-delay="300ms">
                         <div class="about-one__left">
-                            <div class="section-title text-left">
-                                <div class="section-title__tagline-box">
-                                    <p class="section-title__tagline"><span>//</span> About Company </p>
-                                </div>
-                                <h2 class="section-title__title">International Business <span>Conferences</span></h2>
+                            <div class="section-title text-center">
+                                <h2 class="section-title__title">Realms <span>of Event</span></h2>
                             </div>
-                            <p class="about-one__text">There are many variations of passages of Lorem Ipsum availa<br>
-                                but the majority have suffered alteration in some form, by injected<br>
-                                humour, or randomised words.</p>
-                            <ul class="about-one__points list-unstyled">
-                                <li>
-                                    <div class="icon">
-                                        <span class="icon-check-1"></span>
-                                    </div>
-                                    <p>It has survived not only five centuries</p>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <span class="icon-check-1"></span>
-                                    </div>
-                                    <p>Lorem Ipsum has been the ndustry standard dummy text</p>
-                                </li>
-                            </ul>
                             <div class="about-one__timer-box">
                                 <div class="timer-box">
                                     <div class="countdown-timer">
                                         <div class="default-coundown">
                                             <div class="box">
-                                                <div class="countdown time-countdown" data-countdown-time="2024/07/09">
+                                                <div class="countdown time-countdown" data-countdown-time="2025/02/07">
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 wow fadeInRight" data-wow-delay="300ms">
-                        <div class="about-one__right">
-                            <div class="about-one__img-box">
-                                <div class="about-one__img">
-                                    <img src="assets/images/resources/about-one-img-1.jpg" alt="">
-                                </div>
-                                <div class="about-one__img-2">
-                                    <img src="assets/images/resources/about-one-img-2.jpg" alt="">
-                                </div>
-                                <div class="about-one__img-3">
-                                    <img src="assets/images/resources/about-one-img-3.jpg" alt="">
-                                </div>
-                                <div class="about-one__shape-1">
-                                    <img src="assets/images/shapes/about-one-shape-1.png" alt="">
                                 </div>
                             </div>
                         </div>
@@ -359,117 +160,7 @@
         <!--About One End-->
 
         <!--Team One Start-->
-        <section class="team-one">
-            <div class="team-one__bg-shape"></div>
-            <div class="team-one__bg-shape-2"></div>
-            <div class="team-one__bg-box">
-                <div class="team-one__bg" style="background-image: url(assets/images/backgrounds/team-one-bg.jpg);">
-                </div>
-            </div>
-            <div class="container">
-                <div class="section-title text-center">
-                    <div class="section-title__tagline-box">
-                        <p class="section-title__tagline"><span>//</span> Our team <span>//</span> </p>
-                    </div>
-                    <h2 class="section-title__title">Feature for your <span>Event</span></h2>
-                </div>
-                <div class="row">
-                    <!--Team One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
-                        <div class="team-one__single">
-                            <div class="team-one__img-box">
-                                <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-1.jpg" alt="">
-                                </div>
-                                <div class="team-one__single-shape-1">
-                                    <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
-                                </div>
-                                <div class="team-one__single-hover-shape-1">
-                                    <img src="assets/images/shapes/team-one-single-hover-shape-1.png" alt="">
-                                </div>
-                                <div class="team-one__share-and-social">
-                                    <div class="team-one__share">
-                                        <a href="#"><span class="fas fa-share-alt"></span></a>
-                                    </div>
-                                    <div class="team-one__social">
-                                        <a href=""><span class="fas fa-wifi"></span></a>
-                                        <a href=""><span class="fab fa-facebook-f"></span></a>
-                                        <a href=""><span class="fab fa-twitter"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="team-one__content">
-                                <p class="team-one__sub-title">Expert Singer</p>
-                                <h3 class="team-one__title"><a href="speaker-single.html">Ramita Singhania</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Team One Single End-->
-                    <!--Team One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                        <div class="team-one__single">
-                            <div class="team-one__img-box">
-                                <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-2.jpg" alt="">
-                                </div>
-                                <div class="team-one__single-shape-1">
-                                    <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
-                                </div>
-                                <div class="team-one__single-hover-shape-1">
-                                    <img src="assets/images/shapes/team-one-single-hover-shape-1.png" alt="">
-                                </div>
-                                <div class="team-one__share-and-social">
-                                    <div class="team-one__share">
-                                        <a href="#"><span class="fas fa-share-alt"></span></a>
-                                    </div>
-                                    <div class="team-one__social">
-                                        <a href=""><span class="fas fa-wifi"></span></a>
-                                        <a href=""><span class="fab fa-facebook-f"></span></a>
-                                        <a href=""><span class="fab fa-twitter"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="team-one__content">
-                                <p class="team-one__sub-title">Lead Speaker</p>
-                                <h3 class="team-one__title"><a href="speaker-single.html">Saira D. Smith</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Team One Single End-->
-                    <!--Team One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInRight" data-wow-delay="300ms">
-                        <div class="team-one__single">
-                            <div class="team-one__img-box">
-                                <div class="team-one__img">
-                                    <img src="assets/images/team/team-1-3.jpg" alt="">
-                                </div>
-                                <div class="team-one__single-shape-1">
-                                    <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
-                                </div>
-                                <div class="team-one__single-hover-shape-1">
-                                    <img src="assets/images/shapes/team-one-single-hover-shape-1.png" alt="">
-                                </div>
-                                <div class="team-one__share-and-social">
-                                    <div class="team-one__share">
-                                        <a href="#"><span class="fas fa-share-alt"></span></a>
-                                    </div>
-                                    <div class="team-one__social">
-                                        <a href=""><span class="fas fa-wifi"></span></a>
-                                        <a href=""><span class="fab fa-facebook-f"></span></a>
-                                        <a href=""><span class="fab fa-twitter"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="team-one__content">
-                                <p class="team-one__sub-title">Expert Musician</p>
-                                <h3 class="team-one__title"><a href="speaker-single.html">Makesdora White</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Team One Single End-->
-                </div>
-            </div>
-        </section>
+        
         <!--Team One End-->
 
         <!--Counter One Start-->
@@ -484,9 +175,9 @@
                                         <img src="assets/images/shapes/counter-one-shape-1.png" alt="">
                                     </div>
                                     <div class="counter-one__count count-box">
-                                        <h3 class="count-text" data-stop="47" data-speed="1500">00</h3>
+                                        <h3 class="count-text" data-stop="1000" data-speed="1500">00</h3>
                                     </div>
-                                    <p class="counter-one__text">Attendees</p>
+                                    <p class="counter-one__text">Students</p>
                                 </div>
                             </li>
                             <li class="wow fadeInLeft" data-wow-delay="200ms">
@@ -495,9 +186,9 @@
                                         <img src="assets/images/shapes/counter-one-shape-1.png" alt="">
                                     </div>
                                     <div class="counter-one__count count-box">
-                                        <h3 class="count-text" data-stop="203" data-speed="1500">00</h3>
+                                        <h3 class="count-text" data-stop="50" data-speed="1500">00</h3>
                                     </div>
-                                    <p class="counter-one__text">CEOs</p>
+                                    <p class="counter-one__text">Colleges</p>
                                 </div>
                             </li>
                             <li class="wow fadeInLeft" data-wow-delay="300ms">
@@ -506,9 +197,9 @@
                                         <img src="assets/images/shapes/counter-one-shape-1.png" alt="">
                                     </div>
                                     <div class="counter-one__count count-box">
-                                        <h3 class="count-text" data-stop="05" data-speed="1500">00</h3>
+                                        <h3 class="count-text" data-stop="10" data-speed="1500">00</h3>
                                     </div>
-                                    <p class="counter-one__text">Speakers</p>
+                                    <p class="counter-one__text">Events</p>
                                 </div>
                             </li>
                             <li class="wow fadeInLeft" data-wow-delay="400ms">
@@ -517,9 +208,9 @@
                                         <img src="assets/images/shapes/counter-one-shape-1.png" alt="">
                                     </div>
                                     <div class="counter-one__count count-box">
-                                        <h3 class="count-text" data-stop="311" data-speed="1500">00</h3>
+                                        <h3 class="count-text" data-stop="2000" data-speed="1500">00</h3>
                                     </div>
-                                    <p class="counter-one__text">Journalists</p>
+                                    <p class="counter-one__text">Visitors</p>
                                 </div>
                             </li>
                         </ul>
@@ -546,15 +237,15 @@
                         <ul class="tab-buttons clearfix list-unstyled">
                             <li data-tab="#1st-day" class="tab-btn active-btn">
                                 <h3>1<span>st</span> Day</h3>
-                                <p>February 08 , 2024</p>
+                                <p>February 07 , 2025</p>
                             </li>
                             <li data-tab="#2nd-day" class="tab-btn">
                                 <h3>2<span>nd</span> Day</h3>
-                                <p>February 16 , 2024</p>
+                                <p>February 08 , 2025</p>
                             </li>
                             <li data-tab="#3rd-day" class="tab-btn">
                                 <h3>3<span>rd</span> Day</h3>
-                                <p>February 17 , 2024</p>
+                                <p>February 09 , 2025</p>
                             </li>
                         </ul>
                         <div class="tabs-content">
@@ -1221,12 +912,12 @@
             <div class="sliding-text-one__wrap">
                 <ul class="sliding-text__list list-unstyled marquee_mode">
                     <li>
-                        <h2 data-hover="Treanding Music Event /" class="sliding-text__title">Treanding Music Event
-                            <span>/</span></h2>
+                        <h6 data-hover="QIS COLLEGE OF ENGINEERING & TECHNOLOGY (AUTONOMOUS)" class="sliding-text__title">QIS COLLEGE OF ENGINEERING & TECHNOLOGY (AUTONOMOUS)
+                            <span>/</span></h6>
                     </li>
                     <li>
-                        <h2 data-hover="Treanding Music Event /" class="sliding-text__title">Treanding Music Event
-                            <span>/</span></h2>
+                        <h6 data-hover="QIS COLLEGE OF ENGINEERING & TECHNOLOGY (AUTONOMOUS)" class="sliding-text__title">QIS COLLEGE OF ENGINEERING & TECHNOLOGY (AUTONOMOUS)
+                            <span>/</span></h6>
                     </li>
                 </ul>
             </div>
@@ -1475,183 +1166,9 @@
         </section>
         <!--Category One End-->
 
-        <!--Contact One Start-->
-        <section class="contact-one">
-            <div class="container">
-                <div class="section-title text-center">
-                    <div class="section-title__tagline-box">
-                        <p class="section-title__tagline"><span>//</span> Get Every Updates <span>//</span></p>
-                    </div>
-                    <h2 class="section-title__title">Books your Ticket <span>Now</span></h2>
-                </div>
-                <div class="contact-one__inner wow fadeInUp" data-wow-delay="300ms">
-                    <form class="contact-form-validated contact-one__form" action="assets/inc/sendemail.php"
-                        method="post" novalidate="novalidate">
-                        <div class="row">
-                            <div class="col-xl-4">
-                                <div class="contact-one__input-box">
-                                    <input type="text" name="username" placeholder="Your Name" required="">
-                                    <div class="contact-one__input-box-icon">
-                                        <span class="far fa-user"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-4">
-                                <div class="contact-one__input-box">
-                                    <input type="email" name="email" placeholder="Email Address" required="">
-                                    <div class="contact-one__input-box-icon">
-                                        <span class="far fa-envelope-open"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-4">
-                                <div class="contact-one__input-box">
-                                    <div class="select-box">
-                                        <select class="wide">
-                                            <option data-display="Select Subject">Subject</option>
-                                            <option value="1">Select Your Price Tab</option>
-                                            <option value="2">Select Subject 02</option>
-                                            <option value="3">Select Subject 03</option>
-                                        </select>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-12">
-                                <div class="contact-one__btn-box">
-                                    <button type="submit" class="thm-btn contact-one__btn"><span
-                                            class="fas fa-arrow-circle-right"></span>Register Now</button>
-                                </div>
-                            </div>
-                        </div>
-                    </form>
-                    <div class="result"></div>
-                </div>
-            </div>
-        </section>
-        <!--Contact One End-->
 
-        <!-- Blog One Start -->
-        <section class="blog-one">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-4 wow fadeInLeft" data-wow-delay="100ms">
-                        <div class="blog-one__left">
-                            <div class="section-title text-left">
-                                <div class="section-title__tagline-box">
-                                    <p class="section-title__tagline"><span>//</span> News & Blog</p>
-                                </div>
-                                <h2 class="section-title__title">Events Articles & <br> <span>Updates</span></h2>
-                            </div>
-                            <p class="blog-one__text-1">There are many variations of passages of Lorem
-                                Ipsum availa at, but majority have suffered alteration
-                                in some form, by injected humour, or rando
-                                mised words.</p>
-                            <a href="blog.html" class="blog-one__btn thm-btn"><span
-                                    class="fas fa-arrow-circle-right"></span>See
-                                More Blog</a>
-                        </div>
-                    </div>
-                    <div class="col-xl-8">
-                        <div class="blog-one__right">
-                            <ul class="list-unstyled blog-one__list">
-                                <li class="wow fadeInUp" data-wow-delay="200ms">
-                                    <div class="blog-one__single">
-                                        <div class="blog-one__img">
-                                            <img src="assets/images/blog/blog-1-1.jpg" alt="">
-                                        </div>
-                                        <div class="blog-one__content">
-                                            <p class="blog-one__sub-title">Conference</p>
-                                            <h3 class="blog-one__title"><a href="blog-details.html">What Events your
-                                                    life made <br>
-                                                    happy</a></h3>
-                                            <p class="blog-one__text">Lorem sium avail but majority have suffered <br>
-                                                alteration in some form, by</p>
-                                            <div class="blog-one__date">
-                                                <p> <span>24</span> November</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="wow fadeInUp" data-wow-delay="300ms">
-                                    <div class="blog-one__single">
-                                        <div class="blog-one__img">
-                                            <img src="assets/images/blog/blog-1-2.jpg" alt="">
-                                        </div>
-                                        <div class="blog-one__content">
-                                            <p class="blog-one__sub-title">Announce</p>
-                                            <h3 class="blog-one__title"><a href="blog-details.html">The Most Common
-                                                    types of <br>
-                                                    Events</a></h3>
-                                            <p class="blog-one__text">Lorem sium avail but majority have suffered <br>
-                                                alteration in some form, by</p>
-                                            <div class="blog-one__date">
-                                                <p> <span>17</span> October</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="wow fadeInUp" data-wow-delay="400ms">
-                                    <div class="blog-one__single">
-                                        <div class="blog-one__img">
-                                            <img src="assets/images/blog/blog-1-3.jpg" alt="">
-                                        </div>
-                                        <div class="blog-one__content">
-                                            <p class="blog-one__sub-title">Conference</p>
-                                            <h3 class="blog-one__title"><a href="blog-details.html">Paris Blockchain
-                                                    summit new <br>
-                                                    slogan</a></h3>
-                                            <p class="blog-one__text">Lorem sium avail but majority have suffered <br>
-                                                alteration in some form, by</p>
-                                            <div class="blog-one__date">
-                                                <p> <span>08</span> February</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Blog One End -->
 
-        <!-- Brand One Start -->
-        <section class="brand-one">
-            <div class="brand-one__shape-1 zoominout">
-                <img src="assets/images/shapes/brand-one-shape-1.png" alt="">
-            </div>
-            <div class="container">
-                <ul class="list-unstyled brand-one__list">
-                    <li>
-                        <div class="brand-one__img">
-                            <img src="assets/images/brand/brand-1-1.png" alt="">
-                        </div>
-                    </li>
-                    <li>
-                        <div class="brand-one__img">
-                            <img src="assets/images/brand/brand-1-2.png" alt="">
-                        </div>
-                    </li>
-                    <li>
-                        <div class="brand-one__img">
-                            <img src="assets/images/brand/brand-1-3.png" alt="">
-                        </div>
-                    </li>
-                    <li>
-                        <div class="brand-one__img">
-                            <img src="assets/images/brand/brand-1-4.png" alt="">
-                        </div>
-                    </li>
-                    <li>
-                        <div class="brand-one__img">
-                            <img src="assets/images/brand/brand-1-5.png" alt="">
-                        </div>
-                    </li>
-                </ul>
-            </div>
-        </section>
-        <!-- Brand One End -->
+    
 
     <?php
     include('footer.php');

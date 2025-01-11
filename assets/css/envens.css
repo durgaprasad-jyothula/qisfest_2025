@@ -729,7 +729,7 @@ ul {
 .main-menu__logo {
   position: relative;
   display: block;
-  padding: 33px 0;
+  /* padding: 33px 0; */
   z-index: 1;
 }
 
@@ -2158,9 +2158,9 @@ ul {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: -moz-linear-gradient(180deg, rgba(252, 9, 124, 0.70196) 0%, rgba(85, 75, 185, 0.9) 67%, rgb(85, 75, 185) 100%);
-  background-image: -webkit-linear-gradient(180deg, rgba(252, 9, 124, 0.70196) 0%, rgba(85, 75, 185, 0.9) 67%, rgb(85, 75, 185) 100%);
-  background-image: -ms-linear-gradient(180deg, rgba(252, 9, 124, 0.70196) 0%, rgba(85, 75, 185, 0.9) 67%, rgb(85, 75, 185) 100%);
+  background-image: -moz-linear-gradient(180deg, rgba(126, 121, 123, 0.702) 0%, rgba(247, 247, 249, 0.9) 67%, rgb(181, 179, 194) 100%);
+  background-image: -webkit-linear-gradient(180deg, rgba(126, 121, 123, 0.702) 0%, rgba(247, 247, 249, 0.9) 67%, rgb(181, 179, 194) 100%);
+  background-image: -ms-linear-gradient(180deg, rgba(126, 121, 123, 0.702) 0%, rgba(247, 247, 249, 0.9) 67%, rgb(181, 179, 194) 100%);
   opacity: 0;
   -webkit-transform: perspective(400px) rotateY(0deg) translateX(-400px);
   -ms-transform: perspective(400px) rotateY(0deg) translateX(-400px);
@@ -3050,7 +3050,7 @@ ul {
   display: block;
   background-color: var(--envens-black);
   counter-reset: count;
-  padding: 120px 0 90px;
+  padding: 20px 0 10px;
   z-index: 1;
 }
 
@@ -3414,6 +3414,7 @@ ul {
 .about-one__timer-box {
   position: relative;
   display: block;
+  margin-left: 50px;
 }
 
 .about-one__timer-box .timer-box {

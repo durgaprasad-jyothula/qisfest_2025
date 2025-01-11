@@ -1,0 +1,91 @@
+/* Login Page Styles */
+.page-header {
+    position: relative;
+    padding: 100px 0;
+    background-color: #f5f5f5;
+}
+
+.page-header-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.3;
+}
+
+.page-header__inner {
+    position: relative;
+    text-align: center;
+    z-index: 2;
+}
+
+.contact-one {
+    padding: 80px 0;
+}
+
+.contact-one__form__wrap {
+    background: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+.contact-one__input-box {
+    margin-bottom: 20px;
+}
+
+.contact-one__input-box input {
+    width: 100%;
+    height: 50px;
+    border: 1px solid #e2e2e2;
+    padding: 0 20px;
+    border-radius: 5px;
+}
+
+.thm-btn {
+    display: inline-block;
+    padding: 12px 30px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.thm-btn:hover {
+    background-color: #0056b3;
+}
+
+.section-title {
+    margin-bottom: 30px;
+}
+
+.section-title__title {
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.thm-breadcrumb {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.thm-breadcrumb li {
+    color: #666;
+}
+
+.thm-breadcrumb a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.alert {
+    margin-bottom: 20px;
+}

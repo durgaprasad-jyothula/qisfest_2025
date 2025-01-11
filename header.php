@@ -4,9 +4,9 @@
                     <div class="main-menu__wrapper-inner">
                         <div class="main-menu__left">
                             <div class="main-menu__logo">
-                                <a href="index.html"><img src="assets/images/resources/logo-1.png" alt=""></a>
+                                <a href="index.html"><img src="assets/images/image-removebg-preview (1).png" alt="" style="height: 100%;width:81%"></a>
                             </div>
-                            <div class="main-menu__login-box">
+                            <!-- <div class="main-menu__login-box">
                                 <div class="icon">
                                     <span class="icon-user"></span>
                                 </div>
@@ -17,7 +17,7 @@
                                         <option value="2">Register</option>
                                     </select>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="main-menu__right">
                             <div class="main-menu__main-menu-box">
@@ -74,17 +74,17 @@
                                 </ul>
                             </div>
                             <div class="main-menu__social-and-search-box">
-                                <div class="main-menu__social">
+                                <!-- <div class="main-menu__social">
                                     <a href="#"><span class="fab fa-facebook-f"></span></a>
                                     <a href=""><span class="fab fa-twitter"></span></a>
                                     <a href=""><span class="fab fa-linkedin-in"></span></a>
-                                </div>
-                                <div class="main-menu__search-box">
+                                </div> -->
+                                <!-- <div class="main-menu__search-box">
                                     <a href="#" class="main-menu__search search-toggler">
                                         <span class="icon-loupe"></span>
                                         <p class="main-menu__search-text">Search here ..</p>
                                     </a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>

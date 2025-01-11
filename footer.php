@@ -39,79 +39,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-                                <div class="footer-widget__column footer-widget__link">
-                                    <div class="footer-widget__title-box">
-                                        <h3 class="footer-widget__title">Links</h3>
-                                    </div>
-                                    <ul class="footer-widget__link-list list-unstyled">
-                                        <li><a href="about.html">About</a></li>
-                                        <li><a href="speaker.html">Our Team</a></li>
-                                        <li><a href="schedule-list.html">Upcoming Events</a></li>
-                                        <li><a href="blog.html">Latest News</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-                                <div class="footer-widget__column footer-widget__events">
-                                    <div class="footer-widget__title-box">
-                                        <h3 class="footer-widget__title">Find Events</h3>
-                                    </div>
-                                    <ul class="footer-widget__link-list list-unstyled">
-                                        <li><a href="schedule-list-2.html">Virtual Events</a></li>
-                                        <li><a href="about.html">Online Webinars</a></li>
-                                        <li><a href="about.html">Legal & Finance</a></li>
-                                        <li><a href="about.html">Virtual Conferences</a></li>
-                                        <li><a href="about.html">Online Classe</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-                                <div class="footer-widget__column footer-widget__gallery">
-                                    <div class="footer-widget__title-box">
-                                        <h3 class="footer-widget__title">Gallery</h3>
-                                    </div>
-                                    <ul class="footer-widget__gallery-list list-unstyled clearfix">
-                                        <li>
-                                            <div class="footer-widget__gallery-img">
-                                                <img src="assets/images/gallery/footer-widget-gallery-1-1.jpg" alt="">
-                                                <a href="#">Instagram</a>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="footer-widget__gallery-img">
-                                                <img src="assets/images/gallery/footer-widget-gallery-1-2.jpg" alt="">
-                                                <a href="#">Instagram</a>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="footer-widget__gallery-img">
-                                                <img src="assets/images/gallery/footer-widget-gallery-1-3.jpg" alt="">
-                                                <a href="#">Instagram</a>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="footer-widget__gallery-img">
-                                                <img src="assets/images/gallery/footer-widget-gallery-1-4.jpg" alt="">
-                                                <a href="#">Instagram</a>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="footer-widget__gallery-img">
-                                                <img src="assets/images/gallery/footer-widget-gallery-1-5.jpg" alt="">
-                                                <a href="#">Instagram</a>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="footer-widget__gallery-img">
-                                                <img src="assets/images/gallery/footer-widget-gallery-1-6.jpg" alt="">
-                                                <a href="#">Instagram</a>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
+                            
+                            
                         </div>
                     </div>
                 </div>
@@ -121,7 +50,7 @@
                     <div class="site-footer__bottom-inner">
                         <div class="site-footer__bottom-logo-and-social">
                             <div class="site-footer__bottom-logo">
-                                <a href="index.html"><img src="assets/images/resources/site-footer-logo-1.png"
+                                <a href="index.html"><img src="assets/images/image-removebg-preview (1).png"
                                         alt=""></a>
                             </div>
                             <div class="site-footer__social">
@@ -149,32 +78,15 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-1.png" width="150"
+                <a href="index.html" aria-label="logo image"><img src="assets/images/image-removebg-preview (1).png" width="150"
                         alt="" /></a>
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>
             <!-- /.mobile-nav__container -->
 
-            <ul class="mobile-nav__contact list-unstyled">
-                <li>
-                    <i class="fa fa-envelope"></i>
-                    <a href="mailto:needhelp@packageName__.com">needhelp@envens.com</a>
-                </li>
-                <li>
-                    <i class="fa fa-phone-alt"></i>
-                    <a href="tel:666-888-0000">666 888 0000</a>
-                </li>
-            </ul><!-- /.mobile-nav__contact -->
-            <div class="mobile-nav__top">
-                <div class="mobile-nav__social">
-                    <a href="#" class="fab fa-twitter"></a>
-                    <a href="#" class="fab fa-facebook-square"></a>
-                    <a href="#" class="fab fa-pinterest-p"></a>
-                    <a href="#" class="fab fa-instagram"></a>
-                </div><!-- /.mobile-nav__social -->
-            </div><!-- /.mobile-nav__top -->
-
+            
+            
 
 
         </div>
@@ -230,6 +142,6 @@
 
     <!-- template js -->
     <script src="assets/js/envens.js"></script>
-    </body>
+</body>
 
-</html>
+</html> 
